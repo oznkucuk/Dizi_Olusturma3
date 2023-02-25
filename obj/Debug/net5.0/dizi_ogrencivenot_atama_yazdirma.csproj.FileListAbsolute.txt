@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\bin\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\refint\dizi_ogrencivenot_atama_yazdirma.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\dizi_ogrencivenot_atama_yazdirma.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ogrencivenot_atama_yazdirma\obj\Debug\net5.0\ref\dizi_ogrencivenot_atama_yazdirma.dll
